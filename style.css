@@ -1,0 +1,24 @@
+
+.Image{
+min-height: fit-content;
+min-width: fit-content;
+
+
+}
+.Image1{
+    min-height:fit-content;
+}
+
+p,h1,h2,h3{
+    text-align: center;
+    font-style: italic;
+    color:red;
+
+}
+body{
+    background-color:cyan;
+  }
+.header{
+      text-align: center;
+      color:red
+  }
